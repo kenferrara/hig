@@ -710,7 +710,7 @@ export default {
     },
     metadata: {
       deprecated: {
-        ref: "button.solid.iconColor"
+        equivalent: "button.solid.iconColor"
       }
     }
   },

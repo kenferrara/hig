@@ -199,7 +199,7 @@ export default {
       ref: "colorScheme.border.on"
     }
   },
-  "iconButton.static.hover.100To250.backgroundColor": {
+  "iconButton.static.hover.100To250BackgroundColor": {
     type: COLOR,
     value: {
       ref: "colorScheme.reference.base"
@@ -214,7 +214,7 @@ export default {
       ref: "colorScheme.background.empty.level100To250.pressed"
     }
   },
-  "iconButton.static.hover.300To350.backgroundColor": {
+  "iconButton.static.hover.300To350BackgroundColor": {
     type: COLOR,
     value: {
       ref: "colorScheme.component.backgroundColor"
@@ -395,22 +395,22 @@ export default {
   "iconButton.static.hover.level100To250.backgroundColor": {
     type: COLOR,
     value: {
-      ref: "iconButton.static.hover.100To250.backgroundColor"
+      ref: "iconButton.static.hover.100To250BackgroundColor"
     },
     metadata: {
       deprecated: {
-        equivalent: "iconButton.static.hover.100To250.backgroundColor"
+        equivalent: "iconButton.static.hover.100To250BackgroundColor"
       }
     }
   },
   "iconButton.static.hover.level300To350.backgroundColor": {
     type: COLOR,
     value: {
-      ref: "iconButton.static.hover.300To350.backgroundColor"
+      ref: "iconButton.static.hover.300To350BackgroundColor"
     },
     metadata: {
       deprecated: {
-        equivalent: "iconButton.static.hover.300To350.backgroundColor"
+        equivalent: "iconButton.static.hover.300To350BackgroundColor"
       }
     }
   },
